@@ -88,9 +88,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nav-jk/nav-jk/output/snake.svg" alt="Snake animation" />
-
-###
