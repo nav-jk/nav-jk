@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Navaneet J and I'm a AI/ML and Hardware Enthusiast from India</h2>
+<h2 align="left">Hi 👋! My name is Navaneet J </h2>
 
 ###
 
