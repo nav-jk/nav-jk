@@ -7,6 +7,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nav-jk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nav-jk/nav-jk/master/metrics.svg" alt="GitHub metrics achievements" />
+</p>
+
+
 ###
 
 <img align="right" height="180" src="https://media2.dev.to/dynamic/image/width=800,height=,fit=scale-down,gravity=auto,format=auto/https://media1.tenor.com/m/-O8NJ4Nx2AcAAAAd/neon-car.gif"  />
