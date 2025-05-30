@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nav-jk/nav-jk/master/metrics.svg" alt="GitHub metrics achievements" />
+  <img src="https://raw.githubusercontent.com/nav-jk/nav-jk/main/metrics.svg" alt="GitHub metrics achievements" />
 </p>
 
 
