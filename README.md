@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Navaneet J </h2>
-🎓 2nd-year ECE undergrad @ NIT Calicut  
-🔬 Research Intern @ IIT Jodhpur  
-🛠️ Building in AI, Embedded Systems, and ML  
-🏸 Badminton lover | ✍️ Sketching hobbyist
+- 🎓 2nd-year ECE undergrad @ NIT Calicut  
+- 🔬 Research Intern @ IIT Jodhpur  
+- 🛠️ Building in AI, Embedded Systems, and ML  
+- 🏸 Badminton lover | ✍️ Sketching hobbyist
 
 ###
 
@@ -10,11 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nav-jk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nav-jk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nav-jk/nav-jk/main/metrics.svg" alt="GitHub metrics achievements" />
-</p>
-
 
 ###
 
