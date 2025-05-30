@@ -1,10 +1,11 @@
-<h2 align="left">Hi 👋! My name is Navaneet J </h2>
+Hi 👋! My name is Navaneet J
+
 - 🎓 2nd-year ECE undergrad @ NIT Calicut  
 - 🔬 Research Intern @ IIT Jodhpur  
 - 🛠️ Building in AI, Embedded Systems, and ML  
-- 🏸 Badminton lover | ✍️ Sketching hobbyist
+- 🏸 Badminton lover  
+- ✍️ Sketching hobbyist
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nav-jk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
