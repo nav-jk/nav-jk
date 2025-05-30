@@ -1,4 +1,4 @@
-Hi 👋! My name is Navaneet J
+<h2 align="left">Hi 👋! My name is Navaneet J </h2>
 
 - 🎓 2nd-year ECE undergrad @ NIT Calicut  
 - 🔬 Research Intern @ IIT Jodhpur  
