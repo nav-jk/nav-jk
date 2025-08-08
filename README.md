@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Navaneet J </h2>
 
-- 🎓 2nd-year ECE undergrad @ NIT Calicut  
+- 🎓 3rd-year ECE undergrad @ NIT Calicut  
 - 🔬 Research Intern @ IIT Jodhpur  
 - 🛠️ Building in AI, Embedded Systems, and ML  
 - 🏸 Badminton lover  
