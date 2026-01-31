@@ -58,10 +58,9 @@
 </div>
 
 ###
-<a href="https://github.com/nav-jk?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./images/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg" />
   <img alt="github-snake" src="./assets/github-snake.svg" style="width: 100%;" />
 </picture>
