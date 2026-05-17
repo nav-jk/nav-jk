@@ -89,15 +89,26 @@ $ git stats --all
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nav-jk&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=cdd6f4&count_private=true&include_all_commits=true&cache_seconds=1800" height="160" alt="GitHub Stats"/>
+<!-- Row 1: Summary cards (reliable alternative to github-readme-stats) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nav-jk&theme=monokai" height="160" alt="Stats"/>
 &nbsp;
-<img src="https://streak-stats.demolab.com?user=nav-jk&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=cdd6f4&dates=6b7280" height="160" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=nav-jk&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=cdd6f4&dates=6b7280" height="160" alt="Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nav-jk&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cdd6f4&langs_count=6&cache_seconds=1800" height="130" alt="Top Languages"/>
+<!-- Row 2: Languages breakdown -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nav-jk&theme=monokai" height="160" alt="Repos per Language"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nav-jk&theme=monokai" height="160" alt="Most Commit Language"/>
+
+</div>
+
+<div align="center">
+
+<!-- Row 3: Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nav-jk&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c084fc&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 
 </div>
 
