@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Navaneet%20J&fontSize=70&fontColor=a78bfa&fontAlign=50&fontAlignY=40&desc=ECE%20%7C%20AI%20%7C%20Embedded%20Systems&descSize=18&descColor=c4b5fd&descAlignY=65&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Navaneet%20J&fontSize=70&fontColor=a78bfa&fontAlign=50&fontAlignY=40&animation=twinkling" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=3rd+Year+ECE+%40+NIT+Calicut+%F0%9F%8E%93;Research+Intern+%40+IIT+Jodhpur+%F0%9F%94%AC;Building+in+AI+%26+Embedded+Systems+%F0%9F%9B%A0%EF%B8%8F;Badminton+Enthusiast+%F0%9F%8F%B8;Sketch+Artist+%E2%9C%8D%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=4th+Year+ECE+%40+NIT+Calicut+%F0%9F%8E%93;Research+Intern+%40+IIT+Jodhpur+%F0%9F%94%AC;Building+in+AI+%26+Embedded+Systems+%F0%9F%9B%A0%EF%B8%8F;Badminton+Enthusiast+%F0%9F%8F%B8;Sketch+Artist+%E2%9C%8D%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,49 +22,12 @@ alias       : nav-jk
 location    : NIT Calicut, Kerala 🇮🇳
 role        : Undergraduate Researcher
 affiliation :
-  - 🎓 3rd-year ECE @ NIT Calicut
+  - 🎓 4th-year ECE @ NIT Calicut
   - 🔬 Research Intern @ IIT Jodhpur
 domains     : [AI, Embedded Systems, Machine Learning]
 hobbies     : [Badminton 🏸, Sketching ✍️]
 currently   : Building things that (hopefully) don't catch fire
 ```
-
----
-
-```bash
-$ cat /etc/interests.conf
-```
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**`[ WHAT I BUILD ]`**
-
-```
-▸ AI & ML Systems
-▸ Embedded & IoT Projects
-▸ Computer Vision Pipelines
-▸ Full-Stack Applications
-▸ Signal Processing Tools
-```
-
-</td>
-<td width="50%" valign="top">
-
-**`[ WHAT I'M EXPLORING ]`**
-
-```
-▸ Deep Learning Architectures
-▸ FPGA & Digital Design
-▸ Edge AI Deployment
-▸ Autonomous Systems
-▸ Research @ IIT Jodhpur
-```
-
-</td>
-</tr>
-</table>
 
 ---
 
