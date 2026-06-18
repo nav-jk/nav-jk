@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=4th+Year+ECE+%40+NIT+Calicut+%F0%9F%8E%93;Ex+Research+Intern+%40+IIT+Jodhpur+%F0%9F%94%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Final+Year+ECE+%40+NIT+Calicut+%F0%9F%8E%93;Ex+Research+Intern+%40+IIT+Jodhpur+%F0%9F%94%AC)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,8 +21,8 @@ name        : Navaneet J
 alias       : nav-jk
 location    : Kerala 🇮🇳
 affiliation :
-  - 🎓 4th-year ECE @ NIT Calicut
-  - 🔬 Research Intern @ IIT Jodhpur
+  - 🎓 FInal year ECE @ NIT Calicut
+  - 🔬 Ex Research Intern @ IIT Jodhpur
 currently   : Building things that (hopefully) don't catch fire
 ```
 
