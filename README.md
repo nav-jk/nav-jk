@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=4th+Year+ECE+%40+NIT+Calicut+%F0%9F%8E%93;Research+Intern+%40+IIT+Jodhpur+%F0%9F%94%AC;Building+in+AI+%26+Embedded+Systems+%F0%9F%9B%A0%EF%B8%8F;Badminton+Enthusiast+%F0%9F%8F%B8;Sketch+Artist+%E2%9C%8D%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=4th+Year+ECE+%40+NIT+Calicut+%F0%9F%8E%93;Ex+Research+Intern+%40+IIT+Jodhpur+%F0%9F%94%AC)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,13 +19,10 @@ $ whoami --verbose
 ```yaml
 name        : Navaneet J
 alias       : nav-jk
-location    : NIT Calicut, Kerala 🇮🇳
-role        : Undergraduate Researcher
+location    : Kerala 🇮🇳
 affiliation :
   - 🎓 4th-year ECE @ NIT Calicut
   - 🔬 Research Intern @ IIT Jodhpur
-domains     : [AI, Embedded Systems, Machine Learning]
-hobbies     : [Badminton 🏸, Sketching ✍️]
 currently   : Building things that (hopefully) don't catch fire
 ```
 
