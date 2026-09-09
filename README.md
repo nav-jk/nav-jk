@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Final+Year+ECE+%40+NIT+Calicut+%F0%9F%8E%93;Ex+Research+Intern+%40+IIT+Jodhpur+%F0%9F%94%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Final+Year+ECE+%40+NIT+Calicut+%F0%9F%8E%93;Ex+Research+Intern+%40+IIT+Ropar+%F0%9F%94%AC)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,8 +21,9 @@ name        : Navaneet J
 alias       : nav-jk
 location    : Kerala 🇮🇳
 affiliation :
-  - 🎓 FInal year ECE @ NIT Calicut
-  - 🔬 Ex Research Intern @ IIT Jodhpur
+  - 🎓 Final year ECE @ NIT Calicut
+  - 🔬 Incoming Intern @ ARM
+  - 🔬 Ex Research Intern @ IIT Ropar
 currently   : Building things that (hopefully) don't catch fire
 ```
 
@@ -34,7 +35,7 @@ $ ls -la ./tech-stack/
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,matlab&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,verilog,js,matlab&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,arduino,git&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=react,nodejs,django,nestjs,flutter&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=mongodb,github,vscode,kaggle,linux&theme=dark" />
