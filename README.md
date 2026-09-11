@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Final+Year+ECE+%40+NIT+Calicut+%F0%9F%8E%93;Ex+Research+Intern+%40+IIT+Ropar+%F0%9F%94%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Final+Year+ECE+%40+NIT+Calicut+%F0%9F%8E%93;Ex+Project+Intern+%40+IIT+Ropar+%F0%9F%94%AC)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,7 +23,7 @@ location    : Kerala 🇮🇳
 affiliation :
   - 🎓 Final year ECE @ NIT Calicut
   - 🔬 Incoming Intern @ ARM
-  - 🔬 Ex Research Intern @ IIT Ropar
+  - 🔬 Ex Project Intern @ IIT Ropar
 currently   : Building things that (hopefully) don't catch fire
 ```
 
@@ -35,12 +35,12 @@ $ ls -la ./tech-stack/
 
 <div align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=assembly,c,cpp,verilog,python,js,matlab&theme=dark" /><br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=assembly,c,cpp,python,js,matlab&theme=dark" /> <img src="https://img.shields.io/badge/Verilog-2B2B2B?style=for-the-badge" height="48" /><br/>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,opencv,arduino,git&theme=dark" /><br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi,linux,cmake,gdb,qemu&theme=dark" /><br/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=github,vim,bash&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi,linux,cmake,github,vim,bash&theme=dark" />
 
 </div>
+
 ---
 
 ```bash
