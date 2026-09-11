@@ -35,13 +35,12 @@ $ ls -la ./tech-stack/
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=wasm,c,cpp,verilog,python,js,matlab&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,arduino,git&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,django,nestjs,flutter&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,github,linux&theme=dark" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=assembly,c,cpp,verilog,python,js,matlab&theme=dark" /><br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,opencv,arduino,git&theme=dark" /><br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=raspberrypi,linux,cmake,gdb,qemu&theme=dark" /><br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=github,vim,bash&theme=dark" />
 
 </div>
-
 ---
 
 ```bash
