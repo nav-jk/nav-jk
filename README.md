@@ -35,7 +35,7 @@ $ ls -la ./tech-stack/
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=asm,c,cpp,verilog,python,js,matlab&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=wasm,c,cpp,verilog,python,js,matlab&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,arduino,git&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=react,nodejs,django,nestjs,flutter&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=mongodb,github,linux&theme=dark" />
