@@ -29,9 +29,7 @@
 <strong>FOCUS:</strong>      "learning by building"
 <strong>BUILDING:</strong>   "things at the HW/SW boundary"
 <strong>EDUCATION:</strong> "ECE @ NIT Calicut"
-<strong>EXPERIENCE:</strong> ["ARM", "IIT Ropar"]
-<strong>INTERESTS:</strong>  ["VLSI", "CPU design", "ML"]
-<strong>HARDWARE:</strong>   ["RTL", "embedded systems"]
+<strong>INTERESTS:</strong>  ["VLSI", "CPU design", "Embedded Systems"]
 <strong>HOBBIES:</strong>    ["badminton", "sketching"]
 <strong>PHILOSOPHY:</strong> "learn, build, debug, repeat"
 <strong>FUNFACT:</strong>   "one more project can't hurt :p"
