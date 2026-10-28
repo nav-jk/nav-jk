@@ -106,56 +106,52 @@ Currently exploring projects across hardware and software, one rabbit hole at a 
 <div align="center">
 
 <!-- Profile badges -->
-<img src="https://komarev.com/ghpvc/?username=nav-jk&style=flat-square&color=7c3aed&label=Views&labelColor=555555" alt="GitHub views"/>
+<img src="https://komarev.com/ghpvc/?username=nav-jk&style=flat-square&color=7c3aed&label=Views&labelColor=555555" alt="GitHub profile views"/>
 <img src="https://img.shields.io/github/followers/nav-jk?style=flat-square&color=7c3aed&label=Followers" alt="GitHub followers"/>
 <img src="https://img.shields.io/github/stars/nav-jk?style=flat-square&color=7c3aed&label=Stars" alt="GitHub stars"/>
-<img src="https://github-readme-stats-mummanajagadeesh.vercel.app/api/total-repos?username=nav-jk&theme=transparent&hide_border=true&text_color=ffffff&icon_color=a78bfa" alt="Total repositories"/>
 
 <br/><br/>
 
-<!-- LIGHT MODE: trophies and contribution calendar -->
+<!-- Full-year contribution calendar -->
 <p align="center">
-  <a href="https://github-profile-trophy-mummanajagadeesh.vercel.app/?username=nav-jk&hide_border=true&column=5&row=2&theme=flat&no-frame=true&no-bg=true#gh-light-mode-only">
-    <img src="https://github-profile-trophy-mummanajagadeesh.vercel.app/?username=nav-jk&hide_border=true&column=5&row=2&theme=flat&no-frame=true&no-bg=true#gh-light-mode-only" width="57%" alt="GitHub trophies — light mode"/>
-  </a>
-  <img src="./metrics.plugin.isocalendar.fullyear.svg#gh-light-mode-only" width="38%" alt="Full-year contribution calendar — light mode"/>
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" width="95%" alt="Full-year GitHub contribution calendar"/>
 </p>
 
-<!-- DARK MODE: trophies and contribution calendar -->
+<br/>
+
+<!-- GitHub statistics -->
 <p align="center">
-  <a href="https://github-profile-trophy-mummanajagadeesh.vercel.app/?username=nav-jk&hide_border=true&column=5&row=2&theme=dark&no-frame=true&no-bg=true#gh-dark-mode-only">
-    <img src="https://github-profile-trophy-mummanajagadeesh.vercel.app/?username=nav-jk&hide_border=true&column=5&row=2&theme=dark&no-frame=true&no-bg=true#gh-dark-mode-only" width="57%" alt="GitHub trophies — dark mode"/>
-  </a>
-  <img src="./metrics.plugin.isocalendar.fullyear.svg#gh-dark-mode-only" width="38%" alt="Full-year contribution calendar — dark mode"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=nav-jk&show_icons=true&theme=github_dark"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=nav-jk&show_icons=true&theme=default" width="48%" alt="GitHub statistics"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=nav-jk&theme=midnight-purple&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com/?user=nav-jk&theme=default&hide_border=true" width="48%" alt="GitHub contribution streak"/>
+  </picture>
 </p>
 
-<!-- LIGHT MODE: stats, streak and languages -->
+<!-- Summary statistics -->
 <p align="center">
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nav-jk&theme=default#gh-light-mode-only">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nav-jk&theme=default#gh-light-mode-only" width="27%" alt="GitHub statistics — light mode"/>
-  </a>
-  <a href="https://github-readme-streak-stats-eight.vercel.app/?user=nav-jk&theme=default&hide_border=true#gh-light-mode-only">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nav-jk&theme=default&hide_border=true#gh-light-mode-only" width="40%" alt="Contribution streak — light mode"/>
-  </a>
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nav-jk&theme=default#gh-light-mode-only">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nav-jk&theme=default#gh-light-mode-only" width="27%" alt="Languages by repository — light mode"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nav-jk&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nav-jk&theme=default" width="48%" alt="GitHub summary statistics"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=nav-jk&layout=compact&theme=github_dark"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nav-jk&layout=compact&theme=default" width="48%" alt="Most-used programming languages"/>
+  </picture>
 </p>
 
-<!-- DARK MODE: stats, streak and languages -->
+<!-- Languages by repository -->
 <p align="center">
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nav-jk&theme=github_dark#gh-dark-mode-only">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nav-jk&theme=github_dark#gh-dark-mode-only" width="27%" alt="GitHub statistics — dark mode"/>
-  </a>
-  <a href="https://github-readme-streak-stats-eight.vercel.app/?user=nav-jk&theme=dark&hide_border=true#gh-dark-mode-only">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nav-jk&theme=dark&hide_border=true#gh-dark-mode-only" width="40%" alt="Contribution streak — dark mode"/>
-  </a>
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nav-jk&theme=github_dark#gh-dark-mode-only">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nav-jk&theme=github_dark#gh-dark-mode-only" width="27%" alt="Languages by repository — dark mode"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nav-jk&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nav-jk&theme=default" width="48%" alt="Languages by repository"/>
+  </picture>
 </p>
 
-<!-- Activity graph -->
+<!-- GitHub activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nav-jk&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c084fc&area=true&hide_border=true" width="95%" alt="GitHub activity graph"/>
 
 </div>
@@ -187,19 +183,14 @@ Currently exploring projects across hardware and software, one rabbit hole at a 
 
 ### `$ sudo wisdom`
 
-<!-- LIGHT MODE QUOTE -->
-<p align="center">
-  <a href="https://github.com/nav-jk#gh-light-mode-only">
-    <img src="https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=motivational&theme=light#gh-light-mode-only" alt="Motivational quote — light mode"/>
-  </a>
-</p>
+<div align="center">
 
-<!-- DARK MODE QUOTE -->
-<p align="center">
-  <a href="https://github.com/nav-jk#gh-dark-mode-only">
-    <img src="https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=motivational&theme=dark#gh-dark-mode-only" alt="Motivational quote — dark mode"/>
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=motivational&theme=dark"/>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=motivational&theme=light" alt="Motivational quote"/>
+</picture>
+
+</div>
 
 ---
 
